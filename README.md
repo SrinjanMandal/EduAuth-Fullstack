@@ -56,19 +56,7 @@ cd eduauth-fullstack
 2. Test APIs using `database/postman_collection.json` in Postman  
 3. Follow instructions in backend & frontend folders to run the project
 
-## 📂 Project Structure
 
-```
-ci4-react-fullstack/
-│
-├── backend/                # CodeIgniter 4 APIs
-├── frontend/               # React.js frontend
-├── database/
-│   ├── database.sql        # Database schema + sample data
-│   └── postman_collection.json  # Postman collection
-├── README.md               # Project documentation
-└── .gitignore
-```
 
 ## 📜 License
 
